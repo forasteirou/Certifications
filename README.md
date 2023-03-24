@@ -3,7 +3,7 @@
 #
 
 
-Certificados fornecidos por:
+Certificados fornecidos atravez das instituições:
 
 - LinkedIn Learning;
 - Fundação Bradesco;
