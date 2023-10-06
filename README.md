@@ -13,3 +13,4 @@ Certificados fornecidos atravez das instituições:
 - Fundação Getulio Vargas;
 - Utramig;
 - Digital Innovation One;
+- Telefonica VIVO
