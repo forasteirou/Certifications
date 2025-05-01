@@ -14,3 +14,5 @@ Certificados fornecidos atravez das instituições:
 - Utramig;
 - Digital Innovation One;
 - Telefonica VIVO
+- Alura
+- Udemy
